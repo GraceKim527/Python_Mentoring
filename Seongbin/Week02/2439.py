@@ -1,4 +1,4 @@
-n = int(input('숫자를 입력하세요: '))
+n = int(input( ))
 
 for i in range(n):
     string = ''
